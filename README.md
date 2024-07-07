@@ -1,5 +1,4 @@
-<p align="center">
-<h1>🎮🏪 Reviive Shop Channel</p></h1></br>
+<h1 align="center">🎮🏪 Reviive Shop Channel</h1></br>
 
 ![Temporary_Placeholder](./Screen_Recording_20240225_125439_Dolphin_Emulator-ezgif.com-video-to-gif-converter.gif)
 
