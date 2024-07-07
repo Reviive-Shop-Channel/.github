@@ -33,4 +33,6 @@ Just head on over to [our crowdin page](https://crowdin.com/project/Reviive-Shop
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Reviive-Shop-Channel&repo=.github)](https://github.com/Reviive-Shop-Channel/.github)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Reviive-Shop-Channel&repo=.github)](https://github.com/Reviive-Shop-Channel/.github)
 
+------------------
+
 #### Temporary Placeholder - MattTheTekie was here. nya~
