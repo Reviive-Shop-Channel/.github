@@ -14,7 +14,7 @@ The Reviive Shop Channel is a community-driven project, which means it relies on
 </a></p>
 <p align="center">The website is <b>hosted and developed by fin</b>, while the <b>Wii Shop Channel development</b> is <b>led by Thom and Wabagg123.</b></p></br>
 
-[**Get started!**](https://ftolnks.xyz/)</br>
+<center><b><a href="https://ftolnks.xyz">[Get started!]</center></a></b></br>
 
 #### I want to modify the languages or add more of them!
 That's amazing! 
