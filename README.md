@@ -2,6 +2,7 @@
 <i><h1 align="center">Reviive Shop Channel</h1></i></br>
 
 <img alt="GitHub Language Count" src="https://img.shields.io/badge/languages-10-blue" /> <img alt="Github Repo Size" src="https://img.shields.io/badge/repo_size-240_MB-blue" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Reviive-Shop-Channel/.github" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Reviive-Shop-Channel/.github" /> <img alt="Github License" src="https://img.shields.io/github/license/Reviive-Shop-Channel/.github" /></br>
+
 The Reviive Shop Channel is a community-driven project, which means it relies on the support and contributions of dedicated fans and developers.with the aim of bringing back the same experience of the Wii Shop Channel for the Wii. Remember when you could download channels, WiiWare and Virtual Console titles? Or maybe you never experienced that? Well, with Reviive Shop Channel you can experience it again! Reviive Shop Channel can run on any Wii console, it's region-free and also works on Wii U via Wii Mode. Reviive Shop Channel provides WiiWare, Virtual Consoles and Wii Channels. </p>
 #### All the fun people who've contributed:
 <p align="center"> Developers: <b>Wabagg123, Thom, Alex, RandomName, fin, MattTheTekie.</b></p>
