@@ -6,7 +6,6 @@
 a project driven by the community with the aim of bringing back the same experience of the Wii Shop Channel for the Wii. Remember when you could download channels, WiiWare and Virtual Console titles? Or maybe you never experienced that? Well, with Reviive Shop Channel you can experience it again! Reviive Shop Channel can run on any Wii console, it's region-free and also works on Wii U via Wii Mode. Reviive Shop Channel provides WiiWare, Virtual Consoles and Wii Channels.
 
 Reviive Shop Channel is a community-driven project, which means it relies on the support and contributions of dedicated fans and developers. It's availability could change. Please stay connected to the community channels for any updates, assistance, and announcements regarding the revival by checking us on one of our social medias below.</p>
-A website where you can download our products, as well as getting up to date with our advancements, getting assistance with our products, and informing yourself in the status of them.
 #### All the fun people who've contributed:
 <p align="center"> Developers: <b>Wabagg123, Thom, Alex, RandomName, fin, MattTheTekie.</b></p>
 <p align="center"> Graphic Designers: <b>fin, ChrisPlayzYT</b></p>
