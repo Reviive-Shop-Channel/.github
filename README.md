@@ -1,4 +1,5 @@
-<center>## 🎮🏪 Reviive Shop Channel</br>
+<center>
+## 🎮🏪 Reviive Shop Channel</br></center>
 ![image](https://raw.githubusercontent.com/Reviive-Shop-Channel/.github/main/Screen_Recording_20240225_125439_Dolphin_Emulator-ezgif.com-video-to-gif-converter.gif)</center>
 </br>Reviive Shop Channel (also known as Reviive) is a **[Wii Shop Channel]** revival that cares about security.</br> **[Passports not included!]**</center>
 
