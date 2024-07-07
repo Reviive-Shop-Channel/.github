@@ -8,10 +8,9 @@ The Reviive Shop Channel is a community-driven project, which means it relies on
 Developers: <b>Wabagg123, Thom, Alex, RandomName, fin, MattTheTekie.</b></br>
 Graphic Designers: <b>fin, ChrisPlayzYT</b></br>
 Translators: <b>RandomName, Alex, Thom</b></br>
-<p align="center">
 <a href = "https://github.com/Reviive-Shop-Channel/.github/graphs/contributors">
 <img src = "https://contrib.rocks/image?repo=Reviive-Shop-Channel/.github"/>
-</a></p>
+</a>
 <p align="center">The website is <b>hosted and developed by fin</b>, while the <b>Wii Shop Channel development</b> is <b>led by Thom and Wabagg123.</b></p></br>
 
 <p align="center"><b><a href="https://ftolnks.xyz">[Get started!]</center></a></p></b></br>
