@@ -8,7 +8,7 @@
 
 # **Project Team**
 Developers: </br> [**Wabagg123, Thom, Alex, RandomName, fin, MattTheTekie.**]</br>
-Graphic Designers: </br> [**fin, ChrisPlayzYT**]
+<p align="center"> Graphic Designers: </br> [**fin, ChrisPlayzYT**] </p>
 </br>Translators: </br> [**RandomName, Alex, Thom**]</br>
 The website is **hosted and developed by fin**, while the **Wii Shop Channel development** is **led by Thom and Wabagg123.**</br>
 
