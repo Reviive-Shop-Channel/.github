@@ -7,10 +7,10 @@
 ```Reviive Shop Channel is a community-driven project, which means it relies on the support and contributions of dedicated fans and developers. It's availability could change. Please stay connected to the community channels for any updates, assistance, and announcements regarding the revival by checking us on one of our social medias below.```
 
 # **Project Team**
-<p align="center"> Developers: <bold>Wabagg123, Thom, Alex, RandomName, fin, MattTheTekie.</bold></p>
-<p align="center"> Graphic Designers: <bold>fin, ChrisPlayzYT</bold></p>
-<p align="center"> Translators: <bold>RandomName, Alex, Thom</bold></p>
-<p align="center">The website is <bold>hosted and developed by fin</bold>, while the <bold>Wii Shop Channel development</bold> is <bold>led by Thom and Wabagg123.</bold></p></br>
+<p align="center"> Developers: <b>Wabagg123, Thom, Alex, RandomName, fin, MattTheTekie.</b></p>
+<p align="center"> Graphic Designers: <b>fin, ChrisPlayzYT</b></p>
+<p align="center"> Translators: <b>RandomName, Alex, Thom</b></p>
+<p align="center">The website is <b>hosted and developed by fin</b>, while the <b>Wii Shop Channel development</b> is <b>led by Thom and Wabagg123.</b></p></br>
 
 **[Features]**</br>
 Daft Punk themed!
