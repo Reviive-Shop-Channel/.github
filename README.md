@@ -1,5 +1,5 @@
 <center><h1> 🎮🏪 Reviive Shop Channel</h1></center></br>
-<img href="https://raw.githubusercontent.com/Reviive-Shop-Channel/.github/main/Screen_Recording_20240225_125439_Dolphin_Emulator-ezgif.com-video-to-gif-converter.gif"></img>
+![Temporary_Placeholder](./Screen_Recording_20240225_125439_Dolphin_Emulator-ezgif.com-video-to-gif-converter.gif)
 </br>
 <h2>Reviive Shop Channel is..</br></h2>
 <code>a project driven by the community with the aim of bringing back the same experience of the Wii Shop Channel for the Wii. Remember when you could download channels, WiiWare and Virtual Console titles? Or maybe you never experienced that? Well, with Reviive Shop Channel you can experience it again! Reviive Shop Channel can run on any Wii console, it's region-free and also works on Wii U via Wii Mode. Reviive Shop Channel provides WiiWare, Virtual Consoles and Wii Channels.
