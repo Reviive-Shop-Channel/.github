@@ -1,5 +1,5 @@
 <p align="center"><a href="https://ftolnks.xyz"><img height="100px" src="https://cdn.discordapp.com/icons/1198390670994460742/c98740dec1b26339c0d81a529a23a73b.webp?size=4096" alt="Logo"/></a></h2></p>
-<i><h1 align="center">Reviive Shop Channel</h1></i></br>
+<p align="center"><i><h1 align="center">Reviive Shop Channel</h1></i></p></br>
 
 <img alt="GitHub Language Count" src="https://img.shields.io/badge/languages-10-blue" /> <img alt="Github Repo Size" src="https://img.shields.io/badge/repo_size-240_MB-blue" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Reviive-Shop-Channel/.github" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Reviive-Shop-Channel/.github" /> <img alt="Github License" src="https://img.shields.io/github/license/Reviive-Shop-Channel/.github" /></br>
 
