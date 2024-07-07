@@ -15,10 +15,6 @@ The Reviive Shop Channel is a community-driven project, which means it relies on
 <img src = "https://contrib.rocks/image?repo=Reviive-Shop-Channel/.github"/>
 </a></p></add header div>
 
-<a href = "https://github.com/Reviive-Shop-Channel/.github/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo=Reviive-Shop-Channel/.github"/>
-</a>
-
 <b><a href="https://ftolnks.xyz">[Get started!]</center></a></b></br>
 
 #### I want to modify the languages or add more of them!
