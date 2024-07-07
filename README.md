@@ -14,13 +14,14 @@
 
 <b>chore: Add thumbnails to the project team here</b> - MattTheTekie was here nya~
 
+<b>TEMP PLACEHOLDER. MattTheTekie was here nya~</b>
+
+
 **[Features]**</br>
 Daft Punk themed!
 Easy to use.
 Lightweight.
 Includes loads of tools, and utilities.</br>
-
-<b>TEMP PLACEHOLDER. MattTheTekie was here nya~</b>
 
 **[Download today!]**(https://ftolnks.xyz/faq/)</br>
 
