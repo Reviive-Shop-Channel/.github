@@ -18,11 +18,11 @@ The Reviive Shop Channel is a community-driven project, which means it relies on
 That's amazing! 
 Just head on over to [our crowdin page](https://crowdin.com/project/Reviive-Shop-Channel) and begin translating!
 # That's about it, thanks for reading!!!
-**[Download today!]**(https://ftolnks.xyz/faq/)</br>
+[**Get started!**](https://ftolnks.xyz/)</br>
+
+# Temporary Placeholder - MattTheTekie was here. nya~
 
 # Also check out:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Reviive-Shop-Channel&repo=.github)](https://github.com/Reviive-Shop-Channel/.github)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Reviive-Shop-Channel&repo=.github)](https://github.com/Reviive-Shop-Channel/.github)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Reviive-Shop-Channel&repo=.github)](https://github.com/Reviive-Shop-Channel/.github)
-[![Website](https://tinyurl.com/bdffr5tr)](https://home.venith.net)
-[![Discord](https://tinyurl.com/3b9s4sz7)](https://gg.gg/venith_)
