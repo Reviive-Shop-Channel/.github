@@ -3,9 +3,9 @@
 Reviive Shop Channel (also known as Reviive) is a **[Wii Shop Channel]** revival that cares about security. **[Passports not included!]**
 
 **Who works on Reviive?**
-</br>Developers: [**Wabagg123, Thom, Alex, RandomName, fin
+</br>Developers: [**Wabagg123, Thom, Alex, RandomName, fin.**</br>
 Graphic Designers: [**fin, ChrisPlayzYT**]
-Translators: [**RandomName, Alex, Thom
+Translators: [**RandomName, Alex, Thom**]</br>
 The website is hosted and developed by fin, while the Wii Shop Channel development is led by Thom and Wabagg123**]</br>
 
 **[Features]**</br>
