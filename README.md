@@ -14,13 +14,11 @@ The Reviive Shop Channel is a community-driven project, which means it relies on
 </a></p>
 <p align="center">The website is <b>hosted and developed by fin</b>, while the <b>Wii Shop Channel development</b> is <b>led by Thom and Wabagg123.</b></p></br>
 
+[**Get started!**](https://ftolnks.xyz/)</br>
+
 #### I want to modify the languages or add more of them!
 That's amazing! 
 Just head on over to [our crowdin page](https://crowdin.com/project/Reviive-Shop-Channel) and begin translating!
-
-#### That's about it, thanks for reading!!!
-[**Get started!**](https://ftolnks.xyz/)</br>
-
 
 #### Also check out:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Reviive-Shop-Channel&repo=.github)](https://github.com/Reviive-Shop-Channel/.github)
