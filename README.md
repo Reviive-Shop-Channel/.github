@@ -12,7 +12,7 @@
 <p align="center"> Translators: <b>RandomName, Alex, Thom</b></p>
 <p align="center">The website is <b>hosted and developed by fin</b>, while the <b>Wii Shop Channel development</b> is <b>led by Thom and Wabagg123.</b></p></br>
 
-<b>Add thumbnauls to the project team here</b> - MattTheTekie was here nya~
+<b>chore: Add thumbnails to the project team here</b> - MattTheTekie was here nya~
 
 **[Features]**</br>
 Daft Punk themed!
