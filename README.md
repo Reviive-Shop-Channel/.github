@@ -18,7 +18,9 @@ The Reviive Shop Channel is a community-driven project, which means it relies on
 
 ------------------
 
-<b><a href="https://ftolnks.xyz">[Get started!]</center></a></b></br>
+<p align="center"><b><a href="https://ftolnks.xyz">[Get started!]</center></a></b></p></br>
+
+------------------
 
 #### I want to modify the languages or add more of them!
 That's amazing! 
