@@ -10,9 +10,10 @@ Reviive Shop Channel is a community-driven project, which means it relies on the
 <p align="center"> Developers: <b>Wabagg123, Thom, Alex, RandomName, fin, MattTheTekie.</b></p>
 <p align="center"> Graphic Designers: <b>fin, ChrisPlayzYT</b></p>
 <p align="center"> Translators: <b>RandomName, Alex, Thom</b></p>
+<p align="center">
 <a href = "https://github.com/Reviive-Shop-Channel/.github/graphs/contributors">
 <img src = "https://contrib.rocks/image?repo=Reviive-Shop-Channel/.github"/>
-</a>
+</a></p>
 <p align="center">The website is <b>hosted and developed by fin</b>, while the <b>Wii Shop Channel development</b> is <b>led by Thom and Wabagg123.</b></p></br>
 
 ## I want to modify the languages or add more of them!
