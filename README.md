@@ -1,6 +1,6 @@
 ## 🎮🏪 Reviive Shop Channel</br>
 ![image](https://raw.githubusercontent.com/Reviive-Shop-Channel/.github/main/Screen_Recording_20240225_125439_Dolphin_Emulator-ezgif.com-video-to-gif-converter.gif)
-Daft OS is a **[Feren OS]** Ubuntu based Daft Punk themed Linux distribution. **[Daft Punk music not included!]**
+Reviive Shop Channel (also known as Reviive) is a **[Wii Shop Channel]** revival that cares about security. **[Passports not included!]**
 
 Made from the creator of the Sujix/Dragon Linux distribution which had well over 1k downloads!</br>
 
