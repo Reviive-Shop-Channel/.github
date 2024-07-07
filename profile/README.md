@@ -1,9 +1,9 @@
 ## 🎮🏪 Reviive Shop Channel</br>
 ![image](https://raw.githubusercontent.com/Reviive-Shop-Channel/.github/main/Screen_Recording_20240225_125439_Dolphin_Emulator-ezgif.com-video-to-gif-converter.gif)
-Reviive Shop Channel (also known as Reviive) is a **[Wii Shop Channel]** revival that cares about security.</br> **[Passports not included!]**
+</br>Reviive Shop Channel (also known as Reviive) is a **[Wii Shop Channel]** revival that cares about security.</br> **[Passports not included!]**
 
 **Who works on Reviive?**
-</br>Developers: </br> [**Wabagg123, Thom, Alex, RandomName, fin.**]</br>
+</br>Developers: </br> [**Wabagg123, Thom, Alex, RandomName, fin, MattTheTekie.**]</br>
 Graphic Designers: </br> [**fin, ChrisPlayzYT**]
 </br>Translators: </br> [**RandomName, Alex, Thom**]</br>
 The website is **hosted and developed by fin**, while the **Wii Shop Channel development** is **led by Thom and Wabagg123.**</br>
