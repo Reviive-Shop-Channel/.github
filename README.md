@@ -17,6 +17,7 @@ The Reviive Shop Channel is a community-driven project, which means it relies on
 ## I want to modify the languages or add more of them!
 That's amazing! 
 Just head on over to [our crowdin page](https://crowdin.com/project/Reviive-Shop-Channel) and begin translating!
+
 # That's about it, thanks for reading!!!
 [**Get started!**](https://ftolnks.xyz/)</br>
 
