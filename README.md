@@ -2,7 +2,11 @@
 ![image](https://raw.githubusercontent.com/Reviive-Shop-Channel/.github/main/Screen_Recording_20240225_125439_Dolphin_Emulator-ezgif.com-video-to-gif-converter.gif)
 Reviive Shop Channel (also known as Reviive) is a **[Wii Shop Channel]** revival that cares about security. **[Passports not included!]**
 
-Made from the creator of the Sujix/Dragon Linux distribution which had well over 1k downloads!</br>
+Who works on Reviive?
+Developers: Wabagg123, Thom, Alex, RandomName, fin
+Graphic Designers: fin, ChrisPlayzYT
+Translators: RandomName, Alex, Thom
+The website is hosted and developed by fin, while the Wii Shop Channel development is led by Thom and Wabagg123.</br>
 
 **[Features]**</br>
 Daft Punk themed!
