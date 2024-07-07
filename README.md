@@ -6,8 +6,7 @@
 
 ```Reviive Shop Channel is a community-driven project, which means it relies on the support and contributions of dedicated fans and developers. It's availability could change. Please stay connected to the community channels for any updates, assistance, and announcements regarding the revival by checking us on one of our social medias below.```
 
-# **Who works on Reviive?**
-</br>
+# **Project Team**
 Developers: </br> [**Wabagg123, Thom, Alex, RandomName, fin, MattTheTekie.**]</br>
 Graphic Designers: </br> [**fin, ChrisPlayzYT**]
 </br>Translators: </br> [**RandomName, Alex, Thom**]</br>
@@ -19,8 +18,6 @@ Easy to use.
 Lightweight.
 Includes loads of tools, and utilities.</br>
 
-**[Download today!]**
-https://ftolnks.xyz/faq/</br>
-
+**[Download today!]**(https://ftolnks.xyz/faq/)
 [![Website](https://tinyurl.com/bdffr5tr)](https://home.venith.net)<br>
 [![Discord](https://tinyurl.com/3b9s4sz7)](https://gg.gg/venith_)<br>
