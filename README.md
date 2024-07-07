@@ -1,5 +1,6 @@
 <p align="center"><a href="https://ftolnks.xyz"><img height="100px" src="https://cdn.discordapp.com/icons/1198390670994460742/c98740dec1b26339c0d81a529a23a73b.webp?size=4096" alt="Logo"/></a></h2></p>
 <i><h1 align="center">Reviive Shop Channel</h1></i></br>
+
 <img alt="GitHub Language Count" src="https://img.shields.io/badge/languages-10-blue" /> <img alt="Github Repo Size" src="https://img.shields.io/badge/repo_size-240_MB-blue" /> <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/Reviive-Shop-Channel/.github" /> <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Reviive-Shop-Channel/.github" /> <img alt="Github License" src="https://img.shields.io/github/license/Reviive-Shop-Channel/.github" />
   
 ```a project driven by the community with the aim of bringing back the same experience of the Wii Shop Channel for the Wii. Remember when you could download channels, WiiWare and Virtual Console titles? Or maybe you never experienced that? Well, with Reviive Shop Channel you can experience it again! Reviive Shop Channel can run on any Wii console, it's region-free and also works on Wii U via Wii Mode. Reviive Shop Channel provides WiiWare, Virtual Consoles and Wii Channels.```
