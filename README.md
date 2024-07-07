@@ -18,7 +18,7 @@ Easy to use.
 Lightweight.
 Includes loads of tools, and utilities.</br>
 
-TEMP PLACEHOLDER. MattTheTekie was here nya~
+<b>TEMP PLACEHOLDER. MattTheTekie was here nya~</b>
 
 **[Download today!]**(https://ftolnks.xyz/faq/)</br>
 
