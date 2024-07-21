@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ftolnks.xyz">
-    <img height="100px" src="https://cdn.discordapp.com/icons/1198390670994460742/c98740dec1b26339c0d81a529a23a73b.webp?size=4096" alt="Logo"/>
+    <img height="100px" src="https://i.imgur.com/Gr2ecJW.png" alt="Logo"/>
   </a>
 </p>
 <h1 align="center"><i>Reviive Shop Channel</i></h1>
