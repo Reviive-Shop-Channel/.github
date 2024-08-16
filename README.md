@@ -23,7 +23,7 @@ We believe that games should be preserved and not wiped away, therefore we have 
 
 For more information on our revival of the shop channel, check our website at:
 
-<a href="https://reviive.andry6702.net/" style="color:lightblue; ">https://reviive.andry6702.net/</a>
+<a href="https://reviiveweb.wac24.xyz/" style="color:lightblue; ">https://reviiveweb.wac24.xyz/</a>
 
 <br>
 <p>･･･････････････････････････････････････････････････････････････････････････････････････････････････････････</p>
