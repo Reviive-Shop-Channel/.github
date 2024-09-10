@@ -11,6 +11,9 @@
 <h3 style="color:#34BEED;">Reviive Shop Channel</h3>
 <p>･･･････････････････････････････････････････････････････････････････････････････････････････････････････････</p>
 <br>
+
+WE HAVE DEFUNCT, WE HAVE BEEN RAIDED. WE ARE SHUTTING DOWN FOR GOOD. Thank you for all the support but due to LaunchShop raiding us using an alt account, we were forced to close for good.
+
 The Revive Shop Channel is a Wii shop revival that focuses on preserving the past.<br>
 Nintendo shut down the Wii Shop Channel in 2019, and we expected the games to be brought to the NX/NS.<br>
 Instead, they left all of the WiiWare and Virtual Console games to rot.<br>
